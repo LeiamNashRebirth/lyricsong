@@ -1,0 +1,34 @@
+{
+  "name": "lyricsong",
+  "version": "1.0.0",
+  "description": "a free and unlimited request lyrics scraper for musixmatch and azlyrics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeiamNashRebirth"
+  },
+  "keywords": [
+    "lyrics",
+    "scrape",
+    "musixmatch",
+    "azlyrics",
+    "music",
+    "song",
+    "leiamnash",
+    "lyricsong"
+  ],
+  "author": "LeiamNash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeiamNashRebirth/lyricsong/issues"
+  },
+  "homepage": "https://web.leiamnash.repl.co/npm",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^3.3.0"
+  }
+}

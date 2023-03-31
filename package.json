@@ -1,6 +1,6 @@
 {
   "name": "lyricsongg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a free and unlimited request lyrics scraper for musixmatch and azlyrics",
   "main": "index.js",
   "scripts": {

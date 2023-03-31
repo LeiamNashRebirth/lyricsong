@@ -1,6 +1,6 @@
 {
-  "name": "lyricsong",
-  "version": "1.0.0",
+  "name": "lyricsongg",
+  "version": "1.0.1",
   "description": "a free and unlimited request lyrics scraper for musixmatch and azlyrics",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LeiamNashRebirth"
+    "url": "https://github.com/thoriqazzikraa"
   },
   "keywords": [
     "lyrics",
@@ -29,6 +29,6 @@
   "dependencies": {
     "@types/node": "^18.0.6",
     "cheerio": "^1.0.0-rc.12",
-    "node-fetch": "^3.3.0"
+    "node-fetch": "2.6.6"
   }
 }
